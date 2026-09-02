@@ -51,3 +51,5 @@ O objetivo é documentar os protocolos de mitigação de acidentes, sistemas de 
 - **Normas Regulamentadoras (NRs):** NR-11 (Transporte, Movimentação e Manuseio de Materiais), NR-12 (Segurança em Máquinas e Equipamentos), NR-10 (Instalações Elétricas), NR-26 (Sinalização de Segurança).
 - **Normas Técnicas Internacionais:** ISO 3691-4 (Veículos industriais sem condutor e seus sistemas), ISO 13849-1 (Partes de sistemas de comando relacionadas à segurança).
 - **Ferramentas de Análise de Risco:** Análise Preliminar de Risco (APR), Matriz de Risco, Método HRN (*Hazard Rating Number*), Plano de Ação 5W2H.
+
+Link Repositório:https://github.com/caua15092010/Automa-ao_de_ve-culos-2.0.git
